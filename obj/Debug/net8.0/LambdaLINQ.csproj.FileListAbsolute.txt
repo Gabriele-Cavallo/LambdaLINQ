@@ -1,0 +1,15 @@
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\bin\Debug\net8.0\LambdaLINQ.exe
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\bin\Debug\net8.0\LambdaLINQ.deps.json
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\bin\Debug\net8.0\LambdaLINQ.runtimeconfig.json
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\bin\Debug\net8.0\LambdaLINQ.dll
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\bin\Debug\net8.0\LambdaLINQ.pdb
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.AssemblyInfoInputs.cache
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.AssemblyInfo.cs
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.sourcelink.json
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.dll
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\refint\LambdaLINQ.dll
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.pdb
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\LambdaLINQ.genruntimeconfig.cache
+C:\Users\Utente\Coding\personal-code\.net\LambdaLINQ\obj\Debug\net8.0\ref\LambdaLINQ.dll
